@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "767874058625",
+    "firebase_url": "https://santa-cruz-iot-air-quality-default-rtdb.firebaseio.com",
+    "project_id": "santa-cruz-iot-air-quality",
+    "storage_bucket": "santa-cruz-iot-air-quality.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767874058625:android:33b03a7aa93c3d1fae4080",
+        "android_client_info": {
+          "package_name": "IoT.Air.Quality"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvR3M0_SOYDZGU3BBEFLE-tYckZGcRGwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
